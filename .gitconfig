@@ -1,0 +1,8 @@
+[user]
+	name = Chris d'Aunay
+	email = chris@flarestar.co.uk
+	signingkey = F9AFEF9EFE1A9518
+[credential]
+	helper = cache --timeout 7200
+[commit]
+	gpgsign = true

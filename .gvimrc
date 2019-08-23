@@ -1,0 +1,9 @@
+" GVim-specific settings "
+
+" Configure for distraction-free prose editing "
+
+set guioptions-=T
+set background=light
+set laststatus=0
+
+colorscheme pencil
