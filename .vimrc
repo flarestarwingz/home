@@ -1,9 +1,16 @@
-set nobackup
-set nowb
+"set nobackup"
+"set nowb"
+"Use backup dirs in home instead of just disabling backups/locks"
+
+
+set backupdir=~/.vimtmp//,.
+set directory=~/.vimtmp//,.
+set undodir=~/.vimtmp//,.
+
 set noswapfile
 set noerrorbells
 
-set mouse=a
+set mouse=r
 
 if !has('nvim')
     set ttymouse=xterm2

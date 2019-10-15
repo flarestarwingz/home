@@ -3,6 +3,7 @@
 	email = chris@flarestar.co.uk
 	signingkey = DF9ADC4716260C083C7FEF125DD2E79756AEC2A5
 [credential]
-	helper = cache --timeout 7200
+    helper = cache --timeout 14400
+    #helper = store
 [commit]
 	gpgsign = true
