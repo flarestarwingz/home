@@ -1,7 +1,7 @@
 [user]
 	name = Chris d'Aunay
 	email = chris@flarestar.co.uk
-	signingkey = F9AFEF9EFE1A9518
+	signingkey = DF9ADC4716260C083C7FEF125DD2E79756AEC2A5
 [credential]
 	helper = cache --timeout 7200
 [commit]
